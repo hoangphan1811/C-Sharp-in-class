@@ -1,0 +1,12 @@
+D:\DEV-C#\Thực Hành C#\Tuan2_Lab03\Tuan2_Lab03\bin\Debug\Tuan2_Lab03.exe.config
+D:\DEV-C#\Thực Hành C#\Tuan2_Lab03\Tuan2_Lab03\bin\Debug\Tuan2_Lab03.exe
+D:\DEV-C#\Thực Hành C#\Tuan2_Lab03\Tuan2_Lab03\bin\Debug\Tuan2_Lab03.pdb
+D:\DEV-C#\Thực Hành C#\Tuan2_Lab03\Tuan2_Lab03\obj\Debug\Tuan2_Lab03.csproj.AssemblyReference.cache
+D:\DEV-C#\Thực Hành C#\Tuan2_Lab03\Tuan2_Lab03\obj\Debug\Tuan2_Lab03.csproj.SuggestedBindingRedirects.cache
+D:\DEV-C#\Thực Hành C#\Tuan2_Lab03\Tuan2_Lab03\obj\Debug\Tuan2_Lab03.Form1.resources
+D:\DEV-C#\Thực Hành C#\Tuan2_Lab03\Tuan2_Lab03\obj\Debug\Tuan2_Lab03.Properties.Resources.resources
+D:\DEV-C#\Thực Hành C#\Tuan2_Lab03\Tuan2_Lab03\obj\Debug\Tuan2_Lab03.csproj.GenerateResource.cache
+D:\DEV-C#\Thực Hành C#\Tuan2_Lab03\Tuan2_Lab03\obj\Debug\Tuan2_Lab03.csproj.CoreCompileInputs.cache
+D:\DEV-C#\Thực Hành C#\Tuan2_Lab03\Tuan2_Lab03\obj\Debug\Tuan2_Lab03.exe
+D:\DEV-C#\Thực Hành C#\Tuan2_Lab03\Tuan2_Lab03\obj\Debug\Tuan2_Lab03.pdb
+D:\DEV-C#\Thực Hành C#\Tuan2_Lab03\Tuan2_Lab03\obj\Debug\Tuan2_Lab03.Form2.resources

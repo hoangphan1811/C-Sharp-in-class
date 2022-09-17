@@ -1,0 +1,8 @@
+D:\DEV-C#\Tuan1_Lab1_Hao\Tuan1_Lab1_BT4_Hao\bin\Debug\Tuan1_Lab1_BT4_Hao.exe.config
+D:\DEV-C#\Tuan1_Lab1_Hao\Tuan1_Lab1_BT4_Hao\bin\Debug\Tuan1_Lab1_BT4_Hao.exe
+D:\DEV-C#\Tuan1_Lab1_Hao\Tuan1_Lab1_BT4_Hao\bin\Debug\Tuan1_Lab1_BT4_Hao.pdb
+D:\DEV-C#\Tuan1_Lab1_Hao\Tuan1_Lab1_BT4_Hao\obj\Debug\Tuan1_Lab1_BT4_Hao.csproj.AssemblyReference.cache
+D:\DEV-C#\Tuan1_Lab1_Hao\Tuan1_Lab1_BT4_Hao\obj\Debug\Tuan1_Lab1_BT4_Hao.csproj.SuggestedBindingRedirects.cache
+D:\DEV-C#\Tuan1_Lab1_Hao\Tuan1_Lab1_BT4_Hao\obj\Debug\Tuan1_Lab1_BT4_Hao.csproj.CoreCompileInputs.cache
+D:\DEV-C#\Tuan1_Lab1_Hao\Tuan1_Lab1_BT4_Hao\obj\Debug\Tuan1_Lab1_BT4_Hao.exe
+D:\DEV-C#\Tuan1_Lab1_Hao\Tuan1_Lab1_BT4_Hao\obj\Debug\Tuan1_Lab1_BT4_Hao.pdb

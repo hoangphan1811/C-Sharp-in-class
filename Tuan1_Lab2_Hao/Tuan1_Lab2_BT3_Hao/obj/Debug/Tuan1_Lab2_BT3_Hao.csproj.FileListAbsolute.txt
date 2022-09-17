@@ -1,0 +1,8 @@
+D:\DEV-C#\Thực Hành C#\Tuan1_Lab2_Hao\Tuan1_Lab2_BT3_Hao\bin\Debug\Tuan1_Lab2_BT3_Hao.exe.config
+D:\DEV-C#\Thực Hành C#\Tuan1_Lab2_Hao\Tuan1_Lab2_BT3_Hao\bin\Debug\Tuan1_Lab2_BT3_Hao.exe
+D:\DEV-C#\Thực Hành C#\Tuan1_Lab2_Hao\Tuan1_Lab2_BT3_Hao\bin\Debug\Tuan1_Lab2_BT3_Hao.pdb
+D:\DEV-C#\Thực Hành C#\Tuan1_Lab2_Hao\Tuan1_Lab2_BT3_Hao\obj\Debug\Tuan1_Lab2_BT3_Hao.csproj.AssemblyReference.cache
+D:\DEV-C#\Thực Hành C#\Tuan1_Lab2_Hao\Tuan1_Lab2_BT3_Hao\obj\Debug\Tuan1_Lab2_BT3_Hao.csproj.SuggestedBindingRedirects.cache
+D:\DEV-C#\Thực Hành C#\Tuan1_Lab2_Hao\Tuan1_Lab2_BT3_Hao\obj\Debug\Tuan1_Lab2_BT3_Hao.csproj.CoreCompileInputs.cache
+D:\DEV-C#\Thực Hành C#\Tuan1_Lab2_Hao\Tuan1_Lab2_BT3_Hao\obj\Debug\Tuan1_Lab2_BT3_Hao.exe
+D:\DEV-C#\Thực Hành C#\Tuan1_Lab2_Hao\Tuan1_Lab2_BT3_Hao\obj\Debug\Tuan1_Lab2_BT3_Hao.pdb
